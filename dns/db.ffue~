@@ -14,18 +14,18 @@ $TTL 3600 ; 1 Stunde
 
 
 ;Lokale Node
-node A 10.134.11.1
+node A 10.132.11.1
 AAAA fd83:e002:c8a1::1
 
 ;Firmware Updates
-firmware A 10.134.11.1
+firmware A 10.132.11.1
 AAAA fd83:e002:c8a1::1
 
 ;Freifunk Map
-map A 10.134.11.1
+map A 10.132.11.1
 AAAA fd83:e002:c8a1::1
 
 ;Freifunk Zeitserver
-map A 10.134.11.1
+map A 10.132.11.1
 AAAA fd83:e002:c8a1::1
 
